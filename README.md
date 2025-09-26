@@ -43,3 +43,7 @@ This project focuses on creating keylogger supporting Czech keyboard layout, imp
 ## Turning off krylogger
 kill <PID>
 ps aux | grep keylogger
+
+
+## TODO
+  - sending logs from local to external email/server
